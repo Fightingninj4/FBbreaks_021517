@@ -1,6 +1,6 @@
 var appID = "211802899293276";
 //values will include the pageID, postID
-var currentValues = { "pageID": "927258534030563", "postID": "1179919815431099" };
+var currentValues = { "pageID": "", "postID": "" };
 //our real time and insight reaction data objects
 var realtimer = { "LIKE": 0, "LOVE": 0, "WOW": 0, "HAHA": 0, "SAD": 0, "ANGRY": 0 };
 var oldvotes = { "LIKE": 0, "LOVE": 0, "WOW": 0, "HAHA": 0, "SAD": 0, "ANGRY": 0 };
