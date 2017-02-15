@@ -19,7 +19,7 @@
     left: 0;
     background-color: #111;
     display: none;
-    color: white;
+    color: white; 
     z-index: 100000000000000000;
 }
 
